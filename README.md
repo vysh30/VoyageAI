@@ -1,6 +1,5 @@
 # VoyageAI
 AI-powered travel planning assistant built with Google Opal that generates personalized itineraries, weather insights, destination recommendations, and mobile-friendly travel webpages.
-# 🌍 VoyageAI
 
 AI-powered travel planning system built with Google Opal.
 
